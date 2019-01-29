@@ -9,7 +9,8 @@ violet = "V: violet"
 
 def display_rainbow(colors)
 
-  puts "#{colors}"
+  puts "R: red, O: orange, Y: yellow, G: green, B: blue, I: in
+digo, V: violet"
 
 end
 
