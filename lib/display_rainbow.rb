@@ -1,7 +1,7 @@
 output = ["R: red", "O: orange", "Y: yellow", "G: green", "B: blue", "I: indigo", "V: violet"]
 
 
-def display_rainbow([0])
+def display_rainbow(colors)
 
   puts "#{output[0]}, #{output[1]}"
 
